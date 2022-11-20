@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ncryppt
-- 💰 Interested in Bitcoin development 
+- 👀 Interested in Bitcoin development 
 - 📈 Former technical marketer, now run a commoditties business
 
 <!---
