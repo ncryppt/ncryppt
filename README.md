@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ncryppt
 - 👀 Interested in Bitcoin development 
-- 📈 Former technical marketer, now run a commodities business
+- 📈 Technical Marketing consultant & Commodities Brokerage owner
 
 <!---
 ncryppt/ncryppt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
