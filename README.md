@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ncryppt
-- 👀 Interested in Bitcoin development 
+- 👀 Interested in Bitcoin development (@ btcvilleqc co-founder)
 - 📈 Technical Marketing consultant & Commodities Brokerage owner
 
 <!---
